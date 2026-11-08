@@ -1,0 +1,19 @@
+# Expo generated files
+expo-env.d.ts
+.expo/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+web-build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
